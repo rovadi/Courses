@@ -1,0 +1,23 @@
+{
+	"[javascript]": {
+		"editor.formatOnSave": true
+	},
+	"[json]": {
+		"editor.formatOnSave": true
+	},
+	"[html]": {
+		"editor.formatOnSave": true
+	},
+	"[css]": {
+		"editor.formatOnSave": true
+	},
+	"[scss]": {
+		"editor.formatOnSave": true
+	},
+	"editor.formatOnSave": false,
+	"editor.insertSpaces": false,
+	"editor.renderWhitespace": "all",
+	"files.exclude": {
+		"**/.git": true,
+	}
+}

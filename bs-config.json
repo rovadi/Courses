@@ -1,4 +1,8 @@
 {
     "port": 9000,
-    "files": ["./src/**/*.{html,css,js}"]
+    "files": ["./src/**/*.{html,css,js}"],
+	"server": {
+		// add here the folder you want to serve
+        "baseDir": "./src/moduleTwo"
+    }
 }

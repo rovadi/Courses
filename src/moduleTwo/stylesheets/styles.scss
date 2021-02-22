@@ -1,0 +1,13 @@
+.test {
+  color: #f00;
+
+  &--modifier {
+    align-self: start;
+    border-color: #008000;
+    color: #00f;
+  }
+}
+
+.title {
+  color: #008000;
+}

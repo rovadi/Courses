@@ -1,0 +1,11 @@
+.test {
+  color: red;
+}
+.test--modifier {
+  color: blue;
+  background: green;
+}
+
+.title {
+  color: green;
+}
